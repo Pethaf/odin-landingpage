@@ -1,0 +1,1 @@
+Small frontend assignment for The Odin Project
